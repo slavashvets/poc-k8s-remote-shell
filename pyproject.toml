@@ -1,0 +1,10 @@
+[project]
+name = "poc-k8s-remote-shell"
+version = "0.1.0"
+description = "Proof-of-concept: asyncio-based remote shell into a Kubernetes pod"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "kubernetes-asyncio>=32.3.2",
+    "pexpect>=4.9.0",
+]

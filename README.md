@@ -32,9 +32,6 @@ Typical output:
 ```text
 STDOUT: hello from sys-report-daily-a1b2c3
 STDERR:
-STDOUT: bin
-boot
-dev
 ```
 
 ## Configuration
